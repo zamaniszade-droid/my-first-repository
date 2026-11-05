@@ -12,4 +12,11 @@ Markdown is a simple text file format to write structured text ....
 
 We do not know what to write here...
 
-wir haben gelernt: git log, git add, git commit -m, 
+wir haben gelernt: mkdir, git init, git add und file angeben, git 
+commit -m "", git status, git log 
+
+push = Upload 
+
+pull = Download 
+
+
