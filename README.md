@@ -9,3 +9,7 @@ Markdown is a simple text file format to write structured text ....
     - Three Hashes: guess what
 
 ### Third Level
+
+We do not know what to write here...
+
+wir haben gelernt: git log, git add, git commit -m, 
